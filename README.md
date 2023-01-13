@@ -8,7 +8,9 @@ Using PySpark to perform the ETL process to extract the dataset, transform the d
 When looking at the results of the Major Appliances I was able to see the following from review types.
 
 Helpful: 4,992 total reviews - 1,981 5 Star Reviews at 39.68%
+
 Paid Vine: 35 total reviews - 18 5 Star Reviews at 51.43%
+
 Unpaid Non-Paid: 4,957 total reviews - 1,963 5 Star Reviews at 39.60%
 
 ## Summary
